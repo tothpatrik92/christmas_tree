@@ -2,7 +2,7 @@
  * communication.h
  *
  *  Created on: Nov 28, 2017
- *      Author: patrik
+ *      Author: Patrik
  */
 
 #ifndef COMMUNICATION_H_
